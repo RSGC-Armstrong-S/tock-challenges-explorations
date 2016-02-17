@@ -24,6 +24,8 @@
 
 /* Begin PBXFileReference section */
 		170068731C6A40FA00B5B998 /* Search.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Search.playground; sourceTree = "<group>"; };
+		171948931C6CD993003DB86C /* Day3-2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day3-2.playground"; sourceTree = "<group>"; };
+		171948941C6CD994003DB86C /* Day3-3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day3-3.playground"; sourceTree = "<group>"; };
 		813884B31C620F5500F6DBDC /* Day1-1-Solution.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day1-1-Solution.playground"; sourceTree = "<group>"; };
 		813884B51C621B0E00F6DBDC /* Day3-1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day3-1.playground"; sourceTree = "<group>"; };
 		814D8ED81C5A634600D38E36 /* Tock-Challenges */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Tock-Challenges"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -59,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				813884B51C621B0E00F6DBDC /* Day3-1.playground */,
+				171948931C6CD993003DB86C /* Day3-2.playground */,
+				171948941C6CD994003DB86C /* Day3-3.playground */,
 				170068731C6A40FA00B5B998 /* Search.playground */,
 			);
 			name = "Day 3";
